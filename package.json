@@ -45,7 +45,6 @@
     "./lib/index": "./lib/client/index"
   },
   "dependencies": {
-    "bcryptjs": "^2.3.0",
     "bcrypt":"^0.8.7",
     "debug": "^2.2.0",
     "feathers-errors": "^2.0.1",
