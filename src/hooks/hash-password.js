@@ -1,5 +1,5 @@
 import errors from 'feathers-errors';
-import bcrypt from 'bcryptjs';
+import bcrypt from 'bcrypt';
 
 
 const defaults = { passwordField: 'password' };
