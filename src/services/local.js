@@ -1,6 +1,6 @@
 import Debug from 'debug';
 import errors from 'feathers-errors';
-import bcrypt from 'bcryptjs';
+import bcrypt from 'bcrypt';
 import passport from 'passport';
 import { Strategy } from 'passport-local';
 import { exposeConnectMiddleware } from '../middleware';
